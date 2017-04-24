@@ -1,0 +1,46 @@
+\documentclass[14pt]{motivation}
+
+\begin{document}
+\pagestyle{empty}
+
+\header{Smail}{Yemmi}
+%{02/02/1994 \sep \faMapMarker \hspace{\FAspace} Algerien \sep}
+%{\faMobile \hspace{\FAspace} +213 555 751 361 \sep \faMobile \hspace{\FAspace} +213 561 974 742 \sep \faEnvelope \hspace{\FAspace} yemmiismail@gmail.com }
+
+
+\section*{}
+\large
+\textbf{Oran, le 07/04/2017} 
+\paragraph{}
+\large
+\textbf{
+Titulaire d'une Licence en Informatique, je passe ma dernière année en Master Informatique dans « L’ingénierie des Systèmes Embarquées », et je souhaiterais continuer par la suite dans la recherche scientifique sur les systèmes temps réels.  
+}
+\paragraph{} 
+\textbf{
+Pendant ma licence en mathématique et informatique, j’étais formé à la modélisation et analyse mathématique, la conception et modélisation des systèmes et logiciel, ainsi qu’à la programmation. Possédant une bonne connaissance à prouver les théorèmes, faire de la validation et vérification de systèmes mathématiques.Je suis capable créer des algorithmes résolvant des problèmes et les programmer avec différents langages de programmation, concevoir des modèles de systèmes. 
+}
+\paragraph{} 
+\textbf{
+Ensuite j'ai passé un master de spécialité « ingénierie des systèmes embarqués » où j’ai découvert un nouveau concept, j’ai fais de l’analyse de complexité algorithmique, optimisation combinatoire et la conception de système temps réels.
+Grâce à Mr Zahaf Houssem Eddine un membre de l’équipe de recherche  « Emeraude » du laboratoire « Cristal » à l’université de Lille 1, j'ai pu renforcer mes connaissances sur les systèmes temps réels en apprenant les techniques d’analyses d’ordonnançabilité et les algorithmes d’ordonnancement. 
+}
+\paragraph{} 
+\textbf{
+Toujours en master, cette année j’ai étudié la conception et la simulation des systèmes embarqués, appris de nouveaux langages tel que VHDL, SystemC, Arena … etc. 
+J’ai passé un concours pour une bourses à l’étranger, et j'ai été classé 1ér parmi 49 étudiants et donc j’ai eu l’accès à une bourse en Chine.
+}
+\paragraph{} 
+\textbf{
+Prochainement diplômé d'un Master 2 , j'ai acquis de solides connaissances dans le domaine des systèmes embarquées et temps réels. Désireux de poursuivre des études doctorales , je vous propose ma candidature pour la thèse de recherche sur la thése "Programming reconfigurable real-time systems", ce sujet porte sur la re-configuration des systèmes temps réels pour qu'ils s'adaptent à différentes situations tout en gardant le même service et le délivrent à temps. Cette recherche est intéressante car elle permettra d'améliorer plusieurs systèmes critiques dans différents domaines tel que l'aéronautique, automobile, centrales nucléaires ou même les chemins de fer.
+}
+\paragraph{} 
+\textbf{
+Mon dynamisme et mes qualités relationnelles me permettront de m'intégrer en toute autonomie et dans les meilleures conditions au sein de votre laboratoire de recherche.\\
+Dans l'attente d'une réponse favorable, je vous prie d'agréer mes salutations les plus respectueuses.
+}
+\\
+\begin{flushright}
+\textbf{Yemmi Smail}
+\end{flushright}
+\end{document}
